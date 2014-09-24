@@ -131,7 +131,7 @@
         <header-file src="src/ios/Airship/Common/UAObservable.h"  />
         <header-file src="src/ios/Airship/Common/NSJSONSerialization+UAAdditions.h"  />
         <header-file src="src/ios/Airship/Common/UAURLProtocol.h"  />
-        <header-file src="src/ios/Airship/Common/NSString+URLEncoding.h" />
+        <header-file src="src/ios/Airship/Common/NSString+UAURLEncoding.h" />
         <header-file src="src/ios/Airship/Common/UAAction+Operators.h" />
         <header-file src="src/ios/Airship/Common/UAAction.h" />
         <header-file src="src/ios/Airship/Common/UAActionArguments.h" />
